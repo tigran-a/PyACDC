@@ -14,7 +14,7 @@ All related files are located in `pyacdc-apiv2`
 
 #### Configuration ####
 
-`api_key.py` must contain the key received via the [https://communityportal.acdc-project.eu](ACDC Community Portal) 
+`api_key.py` must contain the key received via the [ACDC Community Portal](https://communityportal.acdc-project.eu)
 
 #### Test ####
 
